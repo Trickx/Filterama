@@ -125,6 +125,3 @@ Notes:
 - [src/filterama_controller.py](src/filterama_controller.py): event handling
 - [src/filterama_model.py](src/filterama_model.py): data loading and numeric helpers
 - [src/filterama_common.py](src/filterama_common.py): shared parsing, plotting helpers, logging
-
-## Publishing On GitHub
-

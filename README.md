@@ -4,6 +4,8 @@
 
 Filterama is a desktop application for visualizing and analyzing astronomical filter and sensor response curves.
 It is built with Python, PyQt6, and Matplotlib.
+Well, this is not true! It was completely coded by AI.
+This is the only line of code, a human wrote. :-)
 
 ## What The App Does
 

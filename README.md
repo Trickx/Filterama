@@ -1,5 +1,7 @@
 # Filterama
 
+![Filterama App Icon](Resources/Images/Filterama.png)
+
 Filterama is a desktop application for visualizing and analyzing astronomical filter and sensor response curves.
 It is built with Python, PyQt6, and Matplotlib.
 
@@ -22,6 +24,10 @@ The UI includes:
 - Sensor QE dropdown
 - Dynamic legend and spectral background/annotations
 - Status panel for missing resources and IR warnings
+
+## Credits
+
+The About dialog credits: Setiastro Suite Pro, PixInsight, and Siril.
 
 ## Requirements
 
@@ -120,14 +126,3 @@ Notes:
 
 ## Publishing On GitHub
 
-Before making the repository public, consider this checklist:
-
-1. Add a `LICENSE` file (for example MIT or GPL).
-2. Add this README and verify build/run commands on a clean machine.
-3. Ensure large build artifacts (`build/`, `dist/`, `.venv/`) are ignored in `.gitignore`.
-4. Add screenshots/GIFs to show the UI and analysis workflow.
-5. Create a tagged release and attach packaged binaries if desired.
-
-## Credits
-
-The About dialog credits: Setiastro Suite Pro, PixInsight, and Siril.
